@@ -1,6 +1,9 @@
 # skribbl-league
 League of Legends skribbl.io word list generator.
 
+### Prerequisites
+Requires Node.js and npm.
+
 ### Usage
 1. Clone this repository or download the zip file and extract the files.
 ```sh

@@ -10,7 +10,7 @@ git clone https://github.com/thaddeuskkr/skribbl-league.git
 ```sh
 nano config.js
 ```
-3. Run the script.
+3. Run the script after installing the required dependencies.
 ```sh
-node index.js
+npm i && node index.js
 ```

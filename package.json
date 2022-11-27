@@ -1,7 +1,8 @@
 {
   "name": "league-skribbl-words",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Generator for League of Legends skribbl.io.",
+  "bin": "index.js",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -20,6 +21,7 @@
   "dependencies": {
     "chalk": "^5.1.2",
     "dotenv": "^16.0.3",
+    "inquirer": "^9.1.4",
     "node-fetch": "^3.3.0"
   },
   "devDependencies": {
